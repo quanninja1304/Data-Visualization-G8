@@ -1,0 +1,13 @@
+Feature,Gain,Power (%),Category
+Topic_Obama,0.66743904,66.743904,Context (Subject)
+Source_Tier_Code,0.09489145,9.489145,Context (Identity)
+Topic_Microsoft,0.053935356,5.3935356,Context (Subject)
+Topic_Palestine,0.027303189,2.730319,Context (Subject)
+hour_sin,0.026908426,2.6908426,Market/Time
+Title_Complexity,0.025195193,2.5195193,Content DNA
+hour_cos,0.020667957,2.0667958,Market/Time
+day_sin,0.018028175,1.8028176,Market/Time
+Sentiment_Divergence,0.017334107,1.7334107,Content DNA
+day_cos,0.016625583,1.6625583,Market/Time
+Opportunity_Score_Lagged,0.016029496,1.6029496,Market/Time
+Title_Sentiment,0.01564204,1.564204,Content DNA
